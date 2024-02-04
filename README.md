@@ -19,7 +19,7 @@ StdIn and StdOut: Libraries to handle input and output.
 
 CSV files (2013.csv, 2014.csv, 2021.csv, 2022.csv): Files containing year’s record information to be tested by the driver.
 
-Usage
+# Usage
 To use this project, follow these steps:
 
 Download the CSV files from the provided link and store them inside the Assignment9 folder.
@@ -30,7 +30,7 @@ Run the Driver class to interactively test the implemented methods in StopAndFri
 
 Ensure that the methods produce the expected outputs as described in the assignment.
 
-Implementation Details
+# Implementation Details
 The core methods implemented include:
 
 readFile(): Reads stop and frisk records from an input CSV file, creating SFRecord objects and inserting them into the corresponding year in the database.
@@ -45,5 +45,5 @@ crimeIncrease(description, year1, year2): Returns a double value representing th
 
 mostCommonBorough(year): Outputs the NYC borough where the most stops occurred in a given year.
 
-References
+# References
 For more information on the Stop and Frisk policy in New York, refer to NYCLU - A Closer Look at Stop and Frisk in NYC.
