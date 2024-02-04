@@ -1,8 +1,8 @@
 # StopAndFrisk
-This project is an assignment that involves analyzing real CSV data from the New York Police Department related to the Stop and Frisk cases over the years 2013, 2014, 2021, and 2022. The assignment focuses on using Java and object-oriented programming (OOP) principles to read and analyze the data.
+This project involves analyzing real CSV data from the New York Police Department related to the Stop and Frisk cases over the years 2013, 2014, 2021, and 2022. The project focuses on using Java and object-oriented programming (OOP) principles to read and analyze the data.
 
 # Overview
-The goal of this assignment is to gain insights into social bias using data from the Stop and Frisk cases in New York. The project delves into the analysis of the Stop and Frisk logistics from 2013 and 2014 to more recent years (2021 and 2022), allowing for a comparison and examination of any differences.
+The goal of this project is to gain insights into social bias using data from the Stop and Frisk cases in New York. The project delves into the analysis of the Stop and Frisk logistics from 2013 and 2014 to more recent years (2021 and 2022), allowing for a comparison and examination of any differences.
 
 # Project Structure
 The project consists of the following files:
