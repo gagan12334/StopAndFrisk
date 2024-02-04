@@ -4,9 +4,6 @@ import java.util.ArrayList;
  * The StopAndFrisk class represents stop-and-frisk data, provided by
  * the New York Police Department (NYPD), that is used to compare
  * during when the policy was put in place and after the policy ended.
- * 
- * @author Tanvi Yamarthy
- * @author Vidushi Jindal
  */
 public class StopAndFrisk {
 
